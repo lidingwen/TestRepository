@@ -4,7 +4,7 @@
     <section class="featured">
         <div class="content-wrapper">
             <hgroup class="title">
-                <h1>hello x<%: Title %>.</h1>
+                <h1>hello xxx<%: Title %>.</h1>
                 <h2>Modify this template to jump-start your ASP.NET application.</h2>
             </hgroup>
             <p>
